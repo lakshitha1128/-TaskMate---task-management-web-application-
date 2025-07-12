@@ -30,13 +30,13 @@ A full-stack task management application built with **React**, **Node.js**, **Ex
 
 Here are some previews of the TaskMate app:
 
-![TaskMate Screenshot 1](./images/taskmate1.png)
-![TaskMate Screenshot 2](./images/taskmate2.png)
-![TaskMate Screenshot 3](./images/taskmate3.png)
-![TaskMate Screenshot 4](./images/taskmate4.png)
-![TaskMate Screenshot 5](./images/taskmate5.png)
-![TaskMate Screenshot 6](./images/taskmate6.png)
-![TaskMate Screenshot 7](./images/taskmate7.png)
+![TaskMate Screenshot 1](./Images/taskmate1.png)  
+![TaskMate Screenshot 2](./Images/taskmate2.png)  
+![TaskMate Screenshot 3](./Images/taskmate3.png)  
+![TaskMate Screenshot 4](./Images/taskmate4.png)  
+![TaskMate Screenshot 5](./Images/taskmate5.png)  
+![TaskMate Screenshot 6](./Images/taskmate6.png)  
+![TaskMate Screenshot 7](./Images/taskmate7.png)
 
 ---
 
