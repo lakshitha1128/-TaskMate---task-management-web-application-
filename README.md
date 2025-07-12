@@ -25,6 +25,14 @@ A full-stack task management application built with **React**, **Node.js**, **Ex
 - Loading spinners and smooth navigation
 
 ---
+## 🎨 Design & Wireframes
+
+The wireframes and design mockups for TaskMate were created using *Figma*.  
+You can view the complete design here:
+
+👉 [Figma Design - TaskMateApp](https://www.figma.com/design/pDjLoYOddIW9jxedNVj6L1/TaskMateApp?node-id=1-3&t=8FYstpA9baFxVPkk-1)
+
+---
 
 ## 🖼️ Project Screenshots
 
